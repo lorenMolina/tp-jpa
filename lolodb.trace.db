@@ -1,0 +1,8 @@
+2024-10-11 17:19:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "DOMICILIO" no encontrada
+Table "DOMICILIO" not found; SQL statement:
+insert into domicilio (id, nombre_calle, numero) values (default, ?, ?) [42102-200]
+2024-10-11 17:44:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "DOMICILIO" no encontrada
+Table "DOMICILIO" not found; SQL statement:
+insert into domicilio (id, nombre_calle, numero) values (default, ?, ?) [42102-200]
